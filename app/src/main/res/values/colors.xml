@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#808080</color>
+    <color name="colorPrimaryDark">#5A5A5A</color>
+    <color name="colorAccent">#404769</color>
+    <!--here is my color-->
+    <color name="EVEN_BOX_COLOR">#FFFFFF</color>
+    <color name="ODD_BOX_COLOR">#d3d3d3</color>
+    <color name="HIGHLIGHT_EMPTY_CELL_COLOR">#5A5A5A</color>
+    <color name="HIGHLIGHT_LOCKED_CELL_COLOR">#808080</color>
+    <color name="GRID_BACKGROUND_COLOR">#66000000</color>
+    <color name="MAIN_BUTTON_COLOR">#FFFFFF</color>
+    <color name="GAME_BACKGROUND_COLOR">#28282B</color>
+    <color name="NUMPAD_BUTTON_MARKED_COLOR">#d3d3d3</color>
+    <color name="NUMPAD_BUTTON_UNMARKED_COLOR">#d3d3d3</color>
+    <color name="TARGET_CELL_COLOR">#FFFDD0</color>
+    <color name="SUBMIT_BUTTON_COLOR">#d3d3d3</color>
+    <color name="HIGHLIGHT_BUTTON_COLOR">#d3d3d3</color>
+    <color name="MARKED_CELL_COLOR">#a4c639</color>
+    <color name="black_overlay">#66000000</color>
+    <color name="EASY_COLOR">#d3d3d3</color>
+    <color name="NORMAL_COLOR">#808080</color>
+    <color name="HARD_COLOR">#5A5A5A</color>
+    <color name="EXTREME_COLOR">#ff1e00</color>
+
+</resources>
